@@ -229,9 +229,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Ivaylo Krushkov
 FIAE Trainee at AncudIT, Nürnberg
 
-GitHub: @yourusername
-LinkedIn: Your LinkedIn
-Email: your.email@example.com
+GitHub: @KrushkoffJr
+LinkedIn: [Ivaylo Krushkov](https://www.linkedin.com/in/ivaylo-krushkov-0089512b4/)
+Email: krushkoff@outlook.com
 
 🙏 Acknowledgments
 
@@ -241,7 +241,7 @@ The Node.js, React, and PostgreSQL communities
 
 📊 Project Stats
 
-Development Time: 3 months
+Development Time: 1.5 months
 Lines of Code: ~2,000
 Database Tables: 4
 API Endpoints: 15+
