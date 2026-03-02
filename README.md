@@ -73,6 +73,21 @@ Badges
 ├── badge_name
 └── awarded_at
 
+📷 App Screenshots:
+
+![Login-Page](https://github.com/user-attachments/assets/457f72df-154b-4c68-b4b0-726f87d73fc3)
+
+![Home-Page](https://github.com/user-attachments/assets/187575a7-366a-42ef-bcb6-6412903d485f)
+
+![Quiz-Page](https://github.com/user-attachments/assets/44d7e0ec-1607-41f3-b6c4-b57a18007de2)
+
+![leaderboard-Page](https://github.com/user-attachments/assets/45bdb7d5-1a48-4780-8f6c-2a529cae24ad)
+
+![Badges-Page](https://github.com/user-attachments/assets/9ded0271-7dc5-4eab-b24e-473b94f76fdf)
+
+![Admin Panel](https://github.com/user-attachments/assets/1a530b84-4a63-440b-aa9a-980d60ba3aa6)
+
+
 🚀 Getting Started
 Prerequisites
 
@@ -242,9 +257,9 @@ The Node.js, React, and PostgreSQL communities
 📊 Project Stats
 
 Development Time: 1.5 months
-Lines of Code: ~2,000
-Database Tables: 4
-API Endpoints: 15+
-Security Measures: 5+ implemented
+Lines of Code: ~2,000,
+Database Tables: 4,
+API Endpoints: 15+,
+Security Measures: 5+ implemented...
 
 Built with ❤️ as part of my FIAE certification journey
