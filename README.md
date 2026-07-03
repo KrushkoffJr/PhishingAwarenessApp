@@ -1,9 +1,9 @@
-🎯 Phishing Awareness Training App
+Phishing Awareness Training App
 
 📖 About
 A full-stack web application designed to train employees in recognizing phishing attacks through interactive quizzes. The platform features gamification elements including badges, leaderboards, and progress tracking to encourage ongoing security awareness.
 
-🎮 Key Features
+Key Features
 
 Interactive Quiz System - Multiple-choice questions with immediate feedback
 Gamification - Badge system and leaderboards to motivate learning
@@ -18,7 +18,7 @@ Admin Panel - Manage questions, users, and view analytics
 Secure Authentication - JWT-based auth with HTTP-only cookies
 Responsive Design - Works on desktop and mobile devices
 
-🏗️ Architecture
+Architecture
 Tech Stack
 Frontend:
 
@@ -73,7 +73,7 @@ Badges
 ├── badge_name
 └── awarded_at
 
-📷 App Screenshots:
+App Screenshots:
 
 ![Login-Page](https://github.com/user-attachments/assets/457f72df-154b-4c68-b4b0-726f87d73fc3)
 
@@ -88,7 +88,7 @@ Badges
 ![Admin Panel](https://github.com/user-attachments/assets/1a530b84-4a63-440b-aa9a-980d60ba3aa6)
 
 
-🚀 Getting Started
+Getting Started
 Prerequisites
 
 Node.js 18+
@@ -134,7 +134,7 @@ Frontend runs on: http://localhost:5173
 Open the app
 Navigate to http://localhost:5173 in your browser
 
-🔑 Demo Credentials
+Demo Credentials
 Regular User:
 
 Username: demo
@@ -145,7 +145,7 @@ Admin User:
 Username: admin
 Password: admin
 
-📁 Project Structure
+Project Structure
 phishing-awareness-app/
 ├── backend/
 │ ├── server.js # Express server setup
@@ -165,7 +165,7 @@ phishing-awareness-app/
 ├── docker-compose.yml # PostgreSQL container config
 └── README.md
 
-🔒 Security Features
+Security Features
 Authentication & Authorization
 
 JWT tokens stored in HTTP-only cookies
@@ -184,7 +184,7 @@ Passwords never stored in plain text
 JWT tokens expire after 1 hour
 GDPR considerations implemented (Art. 6 Abs. 1 lit. f - legitimate interest)
 
-🎓 Development Process
+Development Process
 This project was developed using Agile methodology:
 
 Iterative development in sprints
@@ -198,7 +198,7 @@ Manual E2E testing
 Cross-browser compatibility testing
 Security testing (SQL injection, XSS attempts)
 
-🚧 Future Improvements
+Future Improvements
 
 Automated testing (Jest, Cypress)
 HTTPS/SSL implementation
@@ -211,7 +211,7 @@ Timed quiz mode
 Export user data (GDPR compliance)
 Multilingual support
 
-📝 API Documentation
+API Documentation
 Public Endpoints
 POST /api/login # User login
 POST /api/register # User registration
@@ -228,7 +228,7 @@ POST /api/admin/questions # Create question
 PUT /api/admin/questions/:id # Update question
 DELETE /api/admin/questions/:id # Delete question
 
-🤝 Contributing
+Contributing
 This is a learning project, but feedback and suggestions are welcome!
 
 Fork the repository
@@ -237,7 +237,7 @@ Commit your changes (git commit -m 'Add some amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
-📄 License
+License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
@@ -248,13 +248,9 @@ GitHub: @KrushkoffJr
 LinkedIn: [Ivaylo Krushkov](https://www.linkedin.com/in/ivaylo-krushkov-0089512b4/)
 Email: krushkoff@outlook.com
 
-🙏 Acknowledgments
 
-AncudIT for the training opportunity
-IHK for the FIAE certification program
-The Node.js, React, and PostgreSQL communities
 
-📊 Project Stats
+Project Stats
 
 Development Time: 1.5 months
 Lines of Code: ~2,000,
